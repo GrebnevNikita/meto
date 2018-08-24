@@ -8,6 +8,6 @@
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_10" default="true" project-jdk-name="10" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/out" />
+    <output url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.11/webapps/ROOT" />
   </component>
 </project>
